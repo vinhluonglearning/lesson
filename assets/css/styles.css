@@ -684,7 +684,7 @@ a {
 
 .footer .row .column:nth-child(1) {
   width: calc(412 / 1170 * 100%);
-  padding-right: ;
+  /* padding-right: ; */
 }
 
 .footer .row .column:nth-child(2) {
